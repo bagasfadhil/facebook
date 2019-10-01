@@ -130,3 +130,4 @@ The fix also introduces a side effect in `Result#Decode` and `Result#DecodeField
 ## v1.0.0 ##
 
 Initial tag. Library is stable enough for all features mentioned in README.md.
+#
